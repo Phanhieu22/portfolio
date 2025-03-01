@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b2045c3b.css",
+    "main.js": "/portfolio/static/js/main.c328522b.js",
+    "static/media/teaviet.png": "/portfolio/static/media/teaviet.37edf4f221d796ec6bed.png",
+    "static/media/snap-team.jpg": "/portfolio/static/media/snap-team.403c2b3910eb3a52d78f.jpg",
+    "static/media/nailpopPro.png": "/portfolio/static/media/nailpopPro.780d01d5871f0caddd7e.png",
+    "static/media/diem-truong-mamnon phiengphung-baccan.jpg": "/portfolio/static/media/diem-truong-mamnon phiengphung-baccan.966739b6d3780d556fd8.jpg",
+    "static/media/weblamhung.jpg": "/portfolio/static/media/weblamhung.cd5c3e511197cf59bdd2.jpg",
+    "static/media/tamdao2024.jpg": "/portfolio/static/media/tamdao2024.3d7107e0df4226ebf563.jpg",
+    "static/media/osd-logo-white.png": "/portfolio/static/media/osd-logo-white.4560a5c30255d831640d.png",
+    "static/media/nipa-graduation-day-1.jpg": "/portfolio/static/media/nipa-graduation-day-1.bdc8dd9a6b9158912b58.jpg",
+    "static/media/snap_1.jpg": "/portfolio/static/media/snap_1.f94363d23cc8feed9089.jpg",
+    "static/media/capybara.png": "/portfolio/static/media/capybara.b685846e47a57f5a9b3f.png",
+    "static/media/Manrope-Regular.ttf": "/portfolio/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "static/media/Manrope-Bold.ttf": "/portfolio/static/media/Manrope-Bold.47f6d7143da9d8c0e480.ttf",
+    "static/media/kitty.png": "/portfolio/static/media/kitty.608ebcf654e6d85fb24d.png",
+    "static/media/illustration.svg": "/portfolio/static/media/illustration.8d8419cd6cb6c62a853db304e49abe82.svg",
+    "static/media/moon.png": "/portfolio/static/media/moon.8129ab9835404e1ce67b.png",
+    "static/media/dsglobal.png": "/portfolio/static/media/dsglobal.166f867b275f84e3283d.png",
+    "static/media/sun.png": "/portfolio/static/media/sun.27a5d8395620746ff965.png",
+    "index.html": "/portfolio/index.html",
+    "main.b2045c3b.css.map": "/portfolio/static/css/main.b2045c3b.css.map",
+    "main.c328522b.js.map": "/portfolio/static/js/main.c328522b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2045c3b.css",
+    "static/js/main.c328522b.js"
+  ]
+}
